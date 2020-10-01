@@ -1,5 +1,5 @@
 
-# moai
+# moai-an amazing project
 :moyai: Pharmaceutical competitive intelligence through product website FDA OPDP update frequency.
 
 ![Moai](moai.jpg)
